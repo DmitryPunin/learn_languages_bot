@@ -1,0 +1,62 @@
+{
+  "ru": {
+    "welcome": "Привет! Это бот для изучения иностранных языков\uD83D\uDCDD.",
+    "choose_lang": "Выберите язык, который вы хотите изучать.",
+    "choose_pair": "Выберите языковую пару для изучения.",
+    "sentences": "Предложения",
+    "words": "Слова",
+    "choose_vocab": "Выберите, что хотите изучать.",
+    "choose_theme": "Отлично, теперь выберите тему для изучения.",
+    "setup_ready": "Все готово к обучению! Напишите /train, чтобы начать.",
+    "data_error": "Вы не указали данные! Напишите /start и заполните все поля.",
+    "translate_text": "Переведите данный текст:",
+    "right_answer": "✅Ваш ответ правильный!",
+    "wrong_answer": "❌Ваш ответ неправильный!",
+    "variants": "Возможные варианты снизу:"
+  },
+  "en": {
+    "welcome": "Hello! This is a bot for learning foreign languages📝.",
+    "choose_lang": "Choose a language you want to learn.",
+    "choose_pair": "Choose a language pair to study.",
+    "sentences": "Sentences",
+    "words": "words",
+    "choose_vocab": "Choose what you want to study.",
+    "choose_theme": "Great, now choose a topic to study.",
+    "setup_ready": "Everything is ready for learning! Type /train to start.",
+    "data_error": "You haven't provided the data! Type /start and fill in all fields.",
+    "translate_text": "Translate the following text:",
+    "right_answer": "✅Your answer is correct!",
+    "wrong_answer": "❌Your answer is incorrect!",
+    "variants": "Possible options are below."
+  },
+  "sp": {
+    "welcome": "¡Hola! Este es un bot para aprender idiomas extranjeros📝.",
+    "choose_lang": "Elige el idioma que quieres aprender.",
+    "choose_pair": "Elige un par de idiomas para estudiar.",
+    "sentences": "Oraciones",
+    "words": "Palabras",
+    "choose_vocab": "Elige lo que quieres estudiar.",
+    "choose_theme": "¡Excelente! Ahora elige un tema para estudiar.",
+    "setup_ready": "¡Todo está listo para aprender! Escribe /train para comenzar.",
+    "data_error": "¡No has proporcionado los datos! Escribe /start y completa todos los campos.",
+    "translate_text": "Traduce el siguiente texto:",
+    "right_answer": "✅¡Tu respuesta es correcta!",
+    "wrong_answer": "❌¡Tu respuesta es incorrecta!",
+    "variants": "Posibles opciones abajo."
+  },
+  "jp": {
+    "welcome": "Konnichiwa! Kore wa gaikokugo gakushū botto desu.📝",
+    "choose_lang": "Gakushū shitai gengo o erande kudasai.",
+    "choose_pair": "Gakushū suru gengo pea o erande kudasai.",
+    "sentences": "Bunshō",
+    "words": "Tango",
+    "choose_vocab": "Gakushū shitai naiyō o erande kudasai.",
+    "choose_theme": "Dewa, topikku o erande kudasai.",
+    "setup_ready": "Gakushū no junbi ga dekimashita! /train to nyūryoku shite kaishi shimashō.",
+    "data_error": "Dēta ga nyūryoku sarete imasen! /start o nyūryoku shite, subete no fīrudo ni nyūryoku shite kudasai.",
+    "translate_text": "Tsugi no bunshō o hon'yaku shite kudasai:",
+    "right_answer": "✅Seikai desu!",
+    "wrong_answer": "❌Fuseikai desu.",
+    "variants": "Kangaerareru sentakushi wa ika no tōri desu."
+  }
+}

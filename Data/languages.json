@@ -1,0 +1,27 @@
+{
+  "en": {
+
+    "English": "English",
+    "Russian": "Английский",
+    "Spanish": "Ingles",
+    "Japanese": "Eigo"
+  },
+  "ru": {
+    "English": "Russian",
+    "Russian": "Русский",
+    "Spanish": "Ruso",
+    "Japanese": "Roshiago"
+  },
+  "sp": {
+    "Russian": "Испанский",
+    "English": "Spanish",
+    "Spanish": "Español",
+    "Japanese": "Supeingo"
+  },
+  "jp": {
+    "Russian": "Японский",
+    "English": "Japanese",
+    "Spanish": "Japonés",
+    "Japanese": "Nihongo"
+  }
+}
